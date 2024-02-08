@@ -9,6 +9,8 @@ BioCro. Thus, we don't want to link our code to a user supplied Boost
 installation, and we include a version with BioCro instead. Boost is very large,
 so we want to include only the necessary parts.
 
+See `NEWS.md` for more details.
+
 ### License
 
 The boost library is licensed under version 1.0 of the boost license. A copy
